@@ -9,7 +9,7 @@ Quando a dona pedir: arte, post, capa, carrossel, story, criativo de anúncio, i
 - **Texto dentro da imagem:** IA de imagem costuma errar ortografia e letras, principalmente em português. Para reduzir o risco: use pouco texto (título curto), escreva o texto **exatamente** entre aspas no prompt, e depois **releia a imagem gerada** e avise a dona se encontrar erro. Se houver erro, gere de novo corrigindo o prompt.
 - **Não afirme** que o resultado é um arquivo editável. A imagem gerada é uma imagem final. Se a dona quiser mudar um texto depois, você gera de novo.
 - **Tamanho:** peça o formato mais próximo do desejado (quadrado, retrato 4:5 ou vertical 9:16). Se a ferramenta não aceitar a proporção exata, diga qual proporção foi gerada. Não prometa pixels exatos.
-- **Consistência de marca:** use sempre a paleta, o estilo e as regras do briefing da marca. Se a marca não tiver identidade definida, proponha 3 opções de estilo antes de gerar em série.
+- **Consistência de marca:** use sempre a paleta, o estilo e as regras do briefing da marca. Se a marca não tiver identidade definida, não pergunte: use branco, azul-claro e azul-marinho, avise em uma linha o que assumiu e gere. Só proponha opções de estilo se a dona pedir.
 - Se a ferramenta de imagem não estiver disponível no plano da dona, avise e entregue o briefing visual completo e o prompt.
 
 ## BRIEFING VISUAL (formato padrão, uma arte por vez)

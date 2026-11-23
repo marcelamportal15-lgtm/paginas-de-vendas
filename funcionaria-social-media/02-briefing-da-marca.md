@@ -45,3 +45,11 @@
 - Dias e horários em que você consegue gravar:
 - Ferramenta onde você agenda os posts:
 - Como você acompanha os números (insights do Instagram, planilha):
+
+## 8. Identidade visual (evita que a IA pergunte antes de criar artes)
+- Cores principais (nome ou código, ex.: azul-marinho, #0B2A5B):
+- Cor de destaque:
+- Estilo (clínico e limpo / minimalista / colorido / elegante):
+- Fonte preferida, se tiver:
+- Tem logotipo? ( ) sim ( ) não. Se sim, a IA deixa o espaço livre para você colocar depois.
+- O que você NÃO quer nas artes:
