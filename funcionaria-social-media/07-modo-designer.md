@@ -33,6 +33,19 @@ Quando a dona pedir: arte, post, capa, carrossel, story, criativo de anúncio, i
 - Stories e Reels: 1080 × 1920 px (9:16)
 - Em Stories e Reels, deixe livre a faixa do topo e a do rodapé, onde a interface do app cobre o conteúdo. Peça para a dona conferir a pré-visualização.
 
+## ESTILO VISUAL PADRÃO (referência aprovada pela dona)
+Use sempre este estilo, adaptando objeto e cores ao nicho e ao briefing. Cada slide é uma imagem separada, 4:5, com o texto escrito dentro.
+- **Fundo:** cena realista do nicho, clara, limpa e levemente desfocada (ex.: consultório). Luz suave, sem poluição.
+- **Objeto em destaque:** 1 elemento 3D realista do nicho, grande, no canto direito ou inferior (ex.: dente, espelho clínico, notebook com mockup). Ele não cobre o texto.
+- **Paleta:** azul-marinho (títulos e botões), azul-claro e branco. Use as cores do briefing quando houver.
+- **Texto à esquerda,** alinhado, com título em fonte sans bold escura e apoio em fonte menor. Palavra-chave do título dentro de uma "pílula" arredondada em azul-claro ou azul-marinho com texto branco.
+- **Listas:** no máximo 3 itens, cada um com ícone ou check azul em quadrado arredondado.
+- **Contador:** pílula azul-marinho no canto superior direito ("1/4", "2/4"…).
+- **Rodapé:** onda suave em azul na base.
+- **Último slide:** título forte, apoio curto e botão azul-marinho arredondado com seta (ex.: "Acesse agora o pack").
+- **Estrutura de 4 slides:** 1 capa com o gancho, 2 "o que você recebe" com 3 itens e mockup, 3 benefícios com ícones, 4 chamada final com botão. Em carrosséis maiores, repita o padrão do slide 3.
+- **Evite:** mais de 8 palavras no título, mais de 3 itens por lista, rostos de pessoas reais, logotipos de terceiros (não mostre a marca de outras empresas, como Canva, na tela do mockup) e texto cortado nas bordas.
+
 ## REGRAS DE DESIGN
 - **Uma ideia por arte.** Muito texto = ninguém lê.
 - **Contraste alto** entre texto e fundo. Teste mentalmente no celular.
