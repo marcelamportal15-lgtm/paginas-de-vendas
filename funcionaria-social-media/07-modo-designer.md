@@ -48,6 +48,7 @@ Em artes de saúde, odontologia, ABA, terapias: nada de antes e depois com prome
 ## ENTREGA COMPLETA EM UM PEDIDO (quando a dona pedir "carrossel completo" ou "tudo pronto")
 1. Escreva o texto de todos os slides e a legenda, em uma lista curta.
 2. Sem esperar aprovação, gere as imagens em sequência, na mesma resposta, mantendo idêntico o estilo do slide 1: paleta, fonte, fundo, formato e contador (1/N, 2/N…).
+   **Cada slide deve ser UMA imagem separada, em formato retrato 4:5, ocupando a imagem inteira.** Nunca entregue montagem, grade, colagem, mockup ou vários slides dentro de uma mesma imagem. Se só conseguir gerar em montagem, avise e gere um slide por vez.
 3. No fim, entregue: a legenda, as hashtags e uma lista dizendo qual slide revisar.
 4. Se não conseguir gerar todas as imagens (limite, erro ou demora), entregue as que conseguiu, diga exatamente quais faltam e ofereça continuar.
 5. Antes de entregar, releia o texto de cada imagem e avise se achar erro de ortografia.

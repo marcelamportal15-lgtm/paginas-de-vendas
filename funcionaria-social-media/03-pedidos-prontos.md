@@ -24,7 +24,7 @@
 
 ## Entrega completa (tudo de uma vez)
 **Carrossel completo**
-> Modo Designer. Crie um carrossel completo de [5] slides sobre [tema], para [nicho]. Escreva o texto de todos os slides e a legenda. Depois gere todas as imagens em sequência, formato retrato 4:5, mesmo estilo em todas, com contador 1/[5] a [5]/[5]. Sem logotipo. Ao final, me diga quais slides revisar.
+> Modo Designer. Crie um carrossel completo de [5] slides sobre [tema], para [nicho]. Escreva o texto de todos os slides e a legenda. Depois gere todas as imagens em sequência, **cada slide como uma imagem separada** (nunca em montagem ou grade), formato retrato 4:5, mesmo estilo em todas, com contador 1/[5] a [5]/[5]. Sem logotipo. Ao final, me diga quais slides revisar.
 
 **Pacote da semana**
 > Monte o calendário da próxima semana com [4] publicações para [nicho], com foco em [objetivo]. Para cada publicação, escreva a legenda e o roteiro ou texto da arte. Depois gere as artes das publicações que forem estáticas ou carrossel. Entregue tudo organizado em tabela.
