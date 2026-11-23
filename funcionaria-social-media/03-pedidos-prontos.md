@@ -22,6 +22,13 @@
 **Reaproveitar**
 > Pegue este post que funcionou: [cole]. Crie 3 variações com ângulos diferentes, sem repetir a mesma frase.
 
+## Entrega completa (tudo de uma vez)
+**Carrossel completo**
+> Modo Designer. Crie um carrossel completo de [5] slides sobre [tema], para [nicho]. Escreva o texto de todos os slides e a legenda. Depois gere todas as imagens em sequência, formato retrato 4:5, mesmo estilo em todas, com contador 1/[5] a [5]/[5]. Sem logotipo. Ao final, me diga quais slides revisar.
+
+**Pacote da semana**
+> Monte o calendário da próxima semana com [4] publicações para [nicho], com foco em [objetivo]. Para cada publicação, escreva a legenda e o roteiro ou texto da arte. Depois gere as artes das publicações que forem estáticas ou carrossel. Entregue tudo organizado em tabela.
+
 ## Organizar o agendamento
 > Pegue o calendário acima e me entregue em tabela com estas colunas: data, horário, formato, legenda completa, hashtags, arte necessária. Uma linha por post, pronta para eu copiar para a ferramenta onde agendo.
 
